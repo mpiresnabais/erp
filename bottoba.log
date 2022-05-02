@@ -1,0 +1,163 @@
+[2022-03-06T11:57:30.800] [INFO] default - aca sale la info
+[2022-03-06T12:01:03.434] [INFO] default - aca sale la info
+[2022-03-06T12:04:38.580] [INFO] default - aca sale la info
+[2022-03-12T09:52:08.929] [INFO] default - aca sale la info
+[2022-03-12T09:58:36.096] [INFO] default - aca sale la info
+[2022-03-12T10:22:13.468] [INFO] default - aca sale la info
+[2022-03-12T10:26:47.890] [INFO] default - aca sale la info
+[2022-03-12T10:34:36.554] [INFO] default - aca sale la info
+[2022-03-12T10:36:13.597] [INFO] default - aca sale la info
+[2022-03-12T10:36:20.590] [INFO] default - aca sale la info
+[2022-03-12T10:37:24.074] [INFO] default - aca sale la info
+[2022-03-12T10:39:54.482] [INFO] default - aca sale la info
+[2022-03-12T10:40:27.829] [INFO] default - Error connecting to mongo MongooseServerSelectionError: connection timed out
+    at NativeConnection.Connection.openUri (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\connection.js:802:32)
+    at c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\index.js:341:10
+    at c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\index.js:1143:10)
+    at Mongoose.connect (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\index.js:340:20)
+    at Object.<anonymous> (c:\vcarchivos\bottoba\Listas\index.js:18:4)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { '0.0.0.0:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    logicalSessionTimeoutMinutes: undefined
+  }
+}
+[2022-03-12T10:40:45.346] [INFO] default - aca sale la info
+[2022-03-12T10:42:20.314] [INFO] default - aca sale la info
+[2022-03-12T10:45:22.686] [INFO] default - aca sale la info
+[2022-03-12T10:48:03.257] [INFO] default - aca sale la info
+[2022-03-12T10:50:29.079] [INFO] default - aca sale la info
+[2022-03-12T10:51:19.355] [INFO] default - aca sale la info
+[2022-03-15T09:46:45.338] [INFO] default - aca sale la info
+[2022-03-15T09:53:07.378] [INFO] default - aca sale la info
+[2022-03-15T09:57:56.203] [INFO] default - aca sale la info
+[2022-03-15T09:59:38.480] [INFO] default - aca sale la info
+[2022-03-15T11:18:24.882] [INFO] default - aca sale la info
+[2022-03-15T11:27:46.963] [INFO] default - aca sale la info
+[2022-03-15T11:53:11.365] [INFO] default - aca sale la info
+[2022-03-15T11:54:43.501] [INFO] default - aca sale la info
+[2022-03-15T12:03:44.039] [INFO] default - aca sale la info
+[2022-03-15T12:07:42.266] [INFO] default - aca sale la info
+[2022-03-16T08:19:11.073] [INFO] default - aca sale la info
+[2022-03-16T08:20:42.450] [INFO] default - aca sale la info
+[2022-03-16T08:21:35.230] [INFO] default - aca sale la info
+[2022-03-16T08:25:34.454] [INFO] default - aca sale la info
+[2022-03-16T08:27:24.070] [INFO] default - aca sale la info
+[2022-03-16T08:29:44.808] [INFO] default - aca sale la info
+[2022-03-16T08:30:08.945] [INFO] default - aca sale la info
+[2022-03-16T08:32:28.159] [INFO] default - aca sale la info
+[2022-03-16T08:34:57.690] [INFO] default - aca sale la info
+[2022-03-16T08:36:22.640] [INFO] default - aca sale la info
+[2022-03-16T08:38:00.835] [INFO] default - aca sale la info
+[2022-03-16T08:40:41.563] [INFO] default - aca sale la info
+[2022-03-16T08:46:00.066] [INFO] default - aca sale la info
+[2022-03-16T08:49:19.234] [INFO] default - aca sale la info
+[2022-03-16T08:49:30.494] [INFO] default - aca sale la info
+[2022-03-16T08:50:36.193] [INFO] default - aca sale la info
+[2022-03-16T08:52:19.002] [INFO] default - aca sale la info
+[2022-03-16T09:24:13.155] [INFO] default - aca sale la info
+[2022-03-16T09:30:01.757] [INFO] default - aca sale la info
+[2022-03-16T09:31:12.346] [INFO] default - aca sale la info
+[2022-03-16T09:33:32.733] [INFO] default - aca sale la info
+[2022-03-16T09:35:51.122] [INFO] default - aca sale la info
+[2022-03-16T09:36:50.567] [INFO] default - aca sale la info
+[2022-03-16T09:38:24.892] [INFO] default - aca sale la info
+[2022-03-16T09:45:19.216] [INFO] default - aca sale la info
+[2022-03-16T09:48:32.470] [INFO] default - aca sale la info
+[2022-03-16T09:52:42.840] [INFO] default - aca sale la info
+[2022-03-16T09:57:18.245] [INFO] default - aca sale la info
+[2022-03-16T09:58:34.760] [INFO] default - aca sale la info
+[2022-03-16T10:03:57.470] [INFO] default - aca sale la info
+[2022-03-16T10:10:25.634] [INFO] default - aca sale la info
+[2022-03-16T10:12:42.896] [INFO] default - aca sale la info
+[2022-03-16T10:19:28.510] [INFO] default - aca sale la info
+[2022-03-16T10:21:14.799] [INFO] default - aca sale la info
+[2022-03-16T19:31:27.408] [INFO] default - aca sale la info
+[2022-03-16T19:34:42.177] [INFO] default - aca sale la info
+[2022-03-16T19:36:11.942] [INFO] default - aca sale la info
+[2022-03-16T19:37:13.128] [INFO] default - aca sale la info
+[2022-03-16T19:38:24.567] [INFO] default - aca sale la info
+[2022-03-16T19:41:03.634] [INFO] default - aca sale la info
+[2022-03-16T19:43:02.896] [INFO] default - aca sale la info
+[2022-03-16T19:45:20.416] [INFO] default - aca sale la info
+[2022-03-16T19:47:12.007] [INFO] default - aca sale la info
+[2022-03-16T19:50:21.227] [INFO] default - aca sale la info
+[2022-03-16T19:51:17.423] [INFO] default - aca sale la info
+[2022-03-16T19:55:06.719] [INFO] default - aca sale la info
+[2022-03-16T19:57:25.378] [INFO] default - aca sale la info
+[2022-03-16T20:00:57.750] [INFO] default - aca sale la info
+[2022-03-16T20:02:08.874] [INFO] default - aca sale la info
+[2022-03-16T20:09:11.142] [INFO] default - aca sale la info
+[2022-03-16T20:09:58.687] [INFO] default - aca sale la info
+[2022-03-16T20:11:16.209] [INFO] default - aca sale la info
+[2022-03-16T20:12:15.419] [INFO] default - aca sale la info
+[2022-03-16T20:13:39.147] [INFO] default - aca sale la info
+[2022-03-16T20:17:38.882] [INFO] default - aca sale la info
+[2022-03-16T20:18:58.477] [INFO] default - aca sale la info
+[2022-03-18T08:47:15.831] [INFO] default - aca sale la info
+[2022-03-19T07:26:04.363] [INFO] default - aca sale la info
+[2022-03-19T07:29:37.831] [INFO] default - aca sale la info
+[2022-03-19T07:31:41.042] [INFO] default - aca sale la info
+[2022-03-19T10:25:11.359] [INFO] default - aca sale la info
+[2022-03-19T10:25:58.134] [INFO] default - aca sale la info
+[2022-03-19T10:28:49.348] [INFO] default - aca sale la info
+[2022-03-19T10:33:18.046] [INFO] default - aca sale la info
+[2022-03-19T10:37:44.006] [INFO] default - aca sale la info
+[2022-03-19T10:38:37.044] [INFO] default - aca sale la info
+[2022-03-19T12:56:10.412] [INFO] default - aca sale la info
+[2022-03-19T13:11:50.114] [INFO] default - aca sale la info
+[2022-03-21T15:25:19.010] [INFO] default - aca sale la info
+[2022-03-21T15:34:24.347] [INFO] default - aca sale la info
+[2022-03-21T15:47:01.189] [INFO] default - aca sale la info
+[2022-03-21T17:21:58.412] [INFO] default - aca sale la info
+[2022-03-21T17:26:37.250] [INFO] default - aca sale la info
+[2022-03-21T17:27:38.455] [INFO] default - aca sale la info
+[2022-03-21T17:29:14.235] [INFO] default - aca sale la info
+[2022-03-21T17:30:11.142] [INFO] default - aca sale la info
+[2022-03-21T17:36:13.388] [INFO] default - aca sale la info
+[2022-03-21T17:38:46.584] [INFO] default - aca sale la info
+[2022-03-29T22:53:07.148] [INFO] default - aca sale la info
+[2022-03-29T22:54:57.837] [INFO] default - aca sale la info
+[2022-03-29T22:59:59.029] [INFO] default - aca sale la info
+[2022-04-07T14:19:37.307] [INFO] default - aca sale la info
+[2022-04-07T14:20:14.550] [INFO] default - Error connecting to mongo MongooseServerSelectionError: connection timed out
+    at NativeConnection.Connection.openUri (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\connection.js:802:32)
+    at c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\index.js:341:10
+    at c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\index.js:1143:10)
+    at Mongoose.connect (c:\vcarchivos\bottoba\Listas\node_modules\mongoose\lib\index.js:340:20)
+    at Object.<anonymous> (c:\vcarchivos\bottoba\Listas\index.js:18:4)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { '0.0.0.0:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    logicalSessionTimeoutMinutes: undefined
+  }
+}
+[2022-04-07T14:20:42.349] [INFO] default - aca sale la info
+[2022-04-07T14:21:02.399] [INFO] default - aca sale la info
+[2022-04-07T14:21:53.516] [INFO] default - aca sale la info
+[2022-04-07T14:22:49.086] [INFO] default - aca sale la info
+[2022-04-07T14:25:13.048] [INFO] default - aca sale la info
+[2022-04-30T13:22:53.939] [INFO] default - aca sale la info
+[2022-04-30T13:39:11.646] [INFO] default - aca sale la info
