@@ -21,7 +21,7 @@ const sendMsg = async (req, res) => {
 
   if (nroSend.length > 9) {
     console.log(nroSend, msg);
-    /*enviarMsg.enviarMsg(nroSend, msg);*/
+    enviarMsg.enviarMsg(nroSend, msg);
     let responseMessage = `Se ha enviado el msg, si no esta comentado el codigo `;
 
     res.send(responseMessage);

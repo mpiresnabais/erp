@@ -2,6 +2,10 @@ const { validaautorizacion } = require("../middleweares/security");
 
 const express = require("express");
 const mongoose = require("mongoose");
+var ExpressBrute = require("express-brute");
+
+var store = new ExpressBrute.MemoryStore(); // stores state locally, don't use this in production
+var bruteforce = new ExpressBrute(store);
 
 const router = express.Router();
 const sendMsgController = require("../controllers/sendMsgController");
@@ -79,6 +83,11 @@ const sendMsgController = require("../controllers/sendMsgController");
  *       $ref: '#/components/requestBodies/sendMsg'
  */
 
-router.post("/sendMsg", validaautorizacion, sendMsgController.sendMsg);
+router.post(
+  "/sendMsg",
+  bruteforce.prevent,
+  validaautorizacion,
+  sendMsgController.sendMsg
+);
 
 module.exports = router;
